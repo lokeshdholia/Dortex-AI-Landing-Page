@@ -182,7 +182,7 @@ nav ul li a {
 }
 
 .back_img {
-    background-image: url('/img/6.jpeg');
+    background-image: url('./img/6.jpeg');
     /* background-color: rgb(150, 112, 112); */
     /* background-size: contain; */
     padding-bottom: 6rem;
